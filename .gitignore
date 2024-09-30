@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+conan-venv
+conan_provider.cmake
+conandata.yml
+conanfile.py
